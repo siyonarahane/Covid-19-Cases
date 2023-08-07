@@ -1,0 +1,29 @@
+<div class="col-xs-8 site-stats-count">	
+	<ul style="margin-top:0px;">
+		<li class="bg-blue">
+		<strong class="mob-hide">Active &nbsp;<span class="active_per">(0.00%)</span></strong>
+		<strong class="mob-hide">1533         <!--<span class=>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<i class='fa fa-arrow-'></i>)</span>--></strong>
+		<!--<span class='down'>3565 <i class='fa fa-arrow-down'></i></span>-->		
+		<span class="mob-show">Active </span>
+		<span class="mob-show"><span class="active_per">(0.00%)</span> </span>	
+		<span class="mob-show"><strong>1533             <!--<span class=><br>(<i class='fa fa-arrow-'></i>) fff</span>--></strong></span> 
+		</li> 
+		<li class="bg-green">
+		<strong class="mob-hide">Discharged &nbsp;<span class="discharged_per">(98.81%)</span></strong>
+		<strong class="mob-hide">44462351	          
+		</strong>
+		<span class="mob-show">Discharged </span>
+		<span class="mob-show"><span class="discharged_per">(98.81%)</span> </span>	
+		<span class="mob-show"><strong>44462351	        
+		</strong></span> 
+		</li>								
+		<li class="bg-red">
+		<strong class="mob-hide">Deaths &nbsp;<span class="death_per">(1.18%)</span></strong>
+		<strong class="mob-hide">531918 			
+		</strong>
+		<span class="mob-show">Deaths </span>
+		<span class="mob-show"><span class="death_per">(1.18%)</span> </span>	
+			<span class="mob-show"><strong>531918	  <!--<span class='up'><br>(<i class='fa fa-arrow-up'></i>)</span>--></strong></span>
+		<!--<span class='down'> <i class='fa fa-arrow-down'></i></span>-->		
+		</li>
+		</ul></div>
